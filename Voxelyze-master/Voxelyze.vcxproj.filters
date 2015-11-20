@@ -51,13 +51,13 @@
     <ClInclude Include="include\VX_MaterialVoxel.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="include\VX_Mesh.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="include\VX_Utils.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="include\VX_Voxel.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\VX_MeshRender.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
@@ -86,10 +86,13 @@
     <ClCompile Include="src\VX_MaterialVoxel.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\VX_Mesh.cpp">
+    <ClCompile Include="src\VX_Voxel.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\VX_Voxel.cpp">
+    <ClCompile Include="src\VX_MeshRender.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="test.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

@@ -1,0 +1,10 @@
+﻿Build started 11/18/2015 6:29:18 PM.
+Project "C:\Users\Schuyler Levinson\Desktop\Voxelyze-master\Voxelyze.vcxproj" on node 2 (ClCompile target(s)).
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"C:\Users\Schuyler Levinson\Desktop\Voxelyze-master\lib\Debug\\" /Fd"C:\Users\Schuyler Levinson\Desktop\Voxelyze-master\lib\Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt test.cpp
+  test.cpp
+Done Building Project "C:\Users\Schuyler Levinson\Desktop\Voxelyze-master\Voxelyze.vcxproj" (ClCompile target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.70
